@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Initial data
+=======
+Secondary
+>>>>>>> login
